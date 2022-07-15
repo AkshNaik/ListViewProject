@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="InterviewTestApp.iOS.app/InterviewTestApp.iOS">
+      <BCSymbolMapName>InterviewTestApp.iOS.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>InterviewTestApp.iOS.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>obj/iPhoneSimulator/Debug/mtouch-symbols.list</SymbolFile>
+      <DSymName>InterviewTestApp.iOS.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/sandeepnaik/Projects/Akshaya Proj/InterviewTestApp/InterviewTestApp/InterviewTestApp.iOS</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,15 @@
+/Users/sandeepnaik/Projects/Akshaya Proj/InterviewTestApp/InterviewTestApp/InterviewTestApp/bin/Debug/netstandard2.0/InterviewTestApp.deps.json
+/Users/sandeepnaik/Projects/Akshaya Proj/InterviewTestApp/InterviewTestApp/InterviewTestApp/bin/Debug/netstandard2.0/InterviewTestApp.dll
+/Users/sandeepnaik/Projects/Akshaya Proj/InterviewTestApp/InterviewTestApp/InterviewTestApp/bin/Debug/netstandard2.0/ref/InterviewTestApp.dll
+/Users/sandeepnaik/Projects/Akshaya Proj/InterviewTestApp/InterviewTestApp/InterviewTestApp/bin/Debug/netstandard2.0/InterviewTestApp.pdb
+/Users/sandeepnaik/Projects/Akshaya Proj/InterviewTestApp/InterviewTestApp/InterviewTestApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/sandeepnaik/Projects/Akshaya Proj/InterviewTestApp/InterviewTestApp/InterviewTestApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/sandeepnaik/Projects/Akshaya Proj/InterviewTestApp/InterviewTestApp/InterviewTestApp/obj/Debug/netstandard2.0/Views/ListDetailPage.xaml.g.cs
+/Users/sandeepnaik/Projects/Akshaya Proj/InterviewTestApp/InterviewTestApp/InterviewTestApp/obj/Debug/netstandard2.0/Views/ListPage.xaml.g.cs
+/Users/sandeepnaik/Projects/Akshaya Proj/InterviewTestApp/InterviewTestApp/InterviewTestApp/obj/Debug/netstandard2.0/InterviewTestApp.AssemblyInfoInputs.cache
+/Users/sandeepnaik/Projects/Akshaya Proj/InterviewTestApp/InterviewTestApp/InterviewTestApp/obj/Debug/netstandard2.0/InterviewTestApp.AssemblyInfo.cs
+/Users/sandeepnaik/Projects/Akshaya Proj/InterviewTestApp/InterviewTestApp/InterviewTestApp/obj/Debug/netstandard2.0/InterviewTestApp.csproj.CoreCompileInputs.cache
+/Users/sandeepnaik/Projects/Akshaya Proj/InterviewTestApp/InterviewTestApp/InterviewTestApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/sandeepnaik/Projects/Akshaya Proj/InterviewTestApp/InterviewTestApp/InterviewTestApp/obj/Debug/netstandard2.0/InterviewTestApp.dll
+/Users/sandeepnaik/Projects/Akshaya Proj/InterviewTestApp/InterviewTestApp/InterviewTestApp/obj/Debug/netstandard2.0/ref/InterviewTestApp.dll
+/Users/sandeepnaik/Projects/Akshaya Proj/InterviewTestApp/InterviewTestApp/InterviewTestApp/obj/Debug/netstandard2.0/InterviewTestApp.pdb

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="InterviewTestApp.Views.ListDetailPage">
+   <StackLayout VerticalOptions="FillAndExpand">
+          <StackLayout.Margin>
+            <OnPlatform x:TypeArguments="Thickness">
+                    <On Platform="iOS">10,20,10,0</On>
+                    <On Platform="Android">10,10,10,0</On>
+                </OnPlatform>
+        </StackLayout.Margin>
+        <StackLayout Orientation="Horizontal" BackgroundColor="LightGray" >
+            <Button HorizontalOptions="Start"
+                    Margin="5,0,0,0"
+                     TextColor="Black"
+                     FontAttributes="Italic"
+                     BackgroundColor="Transparent"
+                     Text="Back" Command="{Binding backclicked}"
+                     CommandParameter="{Binding .}" />
+                   <Label Text="Employee Detail" Margin="5,0,0,0" VerticalTextAlignment="Center" HorizontalTextAlignment="Center" TextColor="Black" FontAttributes="Bold" FontSize="30"/>
+        </StackLayout>
+        <Image Source="{Binding AvatarURL}" HeightRequest="400" WidthRequest="400" Aspect="Fill"/>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+            <Label Grid.Row="0" Grid.Column="0" Text="First Name:" FontSize="Large" FontAttributes="Bold"/>
+        <Label Grid.Row="0" Grid.Column="1"  Text="{Binding FirstName}" FontSize="Large"/>
+            <Label Grid.Row="1" Grid.Column="0" Text="Last Name:" FontAttributes="Bold" FontSize="Large"/>
+        <Label Grid.Row="1" Grid.Column="1"  Text="{Binding LastName}" FontSize="Large"/>
+            <Label Grid.Row="2" Grid.Column="0" Text="Email:" FontAttributes="Bold" FontSize="Large"/>
+        <Label Grid.Row="2" Grid.Column="1"  Text="{Binding Email}" FontSize="Large"/>
+         
+</Grid>
+    </StackLayout>
+</ContentPage>
+
